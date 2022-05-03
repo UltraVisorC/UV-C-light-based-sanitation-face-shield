@@ -17,6 +17,9 @@ One main modification that we made to the original UVisor to address this issue 
 Since we did not use real UV-C light, we conducted airflow testing to make sure that air is circulating well throughout the device. To do this, we measured the air being directed into the chamber and the air being directed out the other chamber. Data was collected with an airflow probe, and we placed this airflow probe over the openings of each of the chambers in the back at the same distance. We placed the probe in front of the inhale chamber for about 20 seconds until it had a steady reading, then did the same for the exhale chamber.
 
 We ran 3 trials of this test and our results are shown below in Table 1. Our probe measured the flow rate in and flow rate out in cubed feet per meter. The flow rate in represents the air going into the chamber, while the flow rate out is the flow rate going out the other chamber. We were then able to calculate the volume of air collected in 1 min by making the necessary conversion, which was multiplying the flow rate by about 28. The target value we were trying to achieve is a volume of 6 L/min for both the air going in and the air going out, because that it the average volume that an adult breathes in and out in one minute. As you can see from the yellow columns, all 3 of our trials passed this test. 
+
 <img width="581" alt="Screen Shot 2022-05-03 at 4 44 55 PM" src="https://user-images.githubusercontent.com/48959871/166571635-7c22fff6-01b3-438e-9baa-e20ef2cb97f4.png">
+
+
 
 
