@@ -20,6 +20,9 @@ The prototype used 3D-printed materials for the main structure with Open Source 
 
 <img width="574" alt="Screen Shot 2022-05-05 at 9 51 14 PM" src="https://user-images.githubusercontent.com/48959871/167059038-4898df00-ce2f-4938-be9a-9f016c09c69a.png">
 
+YouTube link of how our prototype works: 
+https://youtu.be/ixSwmfPEwCU
+
 ## Airflow Testing
 Since we did not use real UV-C light, we conducted airflow testing to make sure that air is circulating well throughout the device. To do this, we measured the air being directed into the chamber and the air being directed out the other chamber. Data was collected with an airflow probe, and we placed this airflow probe over the openings of each of the chambers in the back at the same distance. We placed the probe in front of the inhale chamber for about 20 seconds until it had a steady reading, then did the same for the exhale chamber.
 
@@ -49,20 +52,33 @@ The strengths of our current prototype are that we were able to successfully sep
 ## Future Work
 For future teams that plan on continuing this project, we hope that our prototype's current limitations can be addressed. First, to address the issue of muffled speech, a microphone speaker system could possibly be implemented in the device. Second, for issues regarding adjustability, different visor sizes could be made for individuals who have larger or smaller head sizes. Lastly, to address the issue of comfortability and dropping battery voltage, a smaller, rechargeable battery could be used to reduce weight on top of the user's head. 
 
+The modified CAD files we created are added to this post, as well as photos of our prototypes. 
+
 ## References
 https://www.uvisor.org/
+
 https://doi.org/10.1086/503643
+
 https://www.mdpi.com/1996-1944/13/15/3363/htm
+
 https://doi.org/10.37624/ijert/13.7.2020.1562-1566
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7882915/
+
 https://www.sciencedirect.com/science/article/pii/S1477893920302301
+
 https://doi.org/10.1063/5.0022968
 
 ## Acknowledgements
 Client: Dr. Robert Read 
+
 Instructor: Dr. Emin Kececi 
+
 Instructor: Dr. Deirdre Hunter
+
 Design Mentor: Charlie Gorton 
+
 Faculty Mentor: Dr. Bilal Ghosn 
+
 Writing Mentor: Rachel Lee
 
