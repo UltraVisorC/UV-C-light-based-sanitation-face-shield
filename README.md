@@ -1,6 +1,7 @@
 # UV-C-light-based-air-sanitation-face-shield
 
 Authors: Sarah Luan, Shifan Liu, Gloria Ni, Christopher Zhou
+
 Team email: ultravisor.c@gmail.com
 
 ## The Central Problem 
