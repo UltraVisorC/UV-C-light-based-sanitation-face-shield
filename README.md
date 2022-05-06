@@ -1,6 +1,7 @@
 # UV-C-light-based-air-sanitation-face-shield
 
 Authors: Sarah Luan, Shifan Liu, Gloria Ni, Christopher Zhou
+Team email: ultravisor.c@gmail.com
 
 ## The Central Problem 
 The current pandemic poses a serious threat to people in high-risk environments, especially doctors and nurses. While there are many protective measures, they are not 100% effective. Our team is tasked with designing a prototype modeled after the UVisor, an existing prototype and face shield that is 99% effective against viruses. The current UVisor is a 2.5 lb faceshield that utilizes UV-C technology to sanitize inhaled air particles and has a battery life of 4-8 hours. Although the UVisor is able to successfully sanitize incoming air, one missing component is its inability to sanitize outgoing air. This poses a safety concern for medical professionals who wish not to infect patients and other staff by viral transmission from exhaled air. 
